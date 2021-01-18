@@ -9,4 +9,9 @@
         <name>HTML Tutorial</name>
         <url>https://www.quackit.com/html/tutorial</url>
     </tutorial>
+    <tutorial>
+        <name>NEW Tutorial</name>
+        <url>https://www.quackit.com/xml/tutorial</url>
+    </tutorial>
+
 </tutorials>
