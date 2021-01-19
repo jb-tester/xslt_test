@@ -4,7 +4,6 @@
         <option name="myOpenOutputFile" value="false"/>
         <option name="myOpenInBrowser" value="false"/>
         <option name="mySmartErrorHandling" value="true"/>
-        <option name="myRunnerPort" value="34873"/>
         <option name="myVmArguments" value="-Dxslt.transformer.type=xalan"/>
         <option name="myWorkingDirectory" value=""/>
         <option name="myModule"/>
